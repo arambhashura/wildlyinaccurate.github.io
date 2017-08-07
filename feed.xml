@@ -6,8 +6,8 @@
 </description>
     <link>https://wildlyinaccurate.com/</link>
     <atom:link href="https://wildlyinaccurate.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Aug 2017 17:29:25 +0100</pubDate>
-    <lastBuildDate>Sun, 06 Aug 2017 17:29:25 +0100</lastBuildDate>
+    <pubDate>Mon, 07 Aug 2017 23:04:25 +0100</pubDate>
+    <lastBuildDate>Mon, 07 Aug 2017 23:04:25 +0100</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -140,6 +140,12 @@
 
 &lt;span class=&quot;nx&quot;&gt;hydrate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;renderComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;componentMap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;what-next&quot;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;Second has worked well for some of the projects that I’ve worked on this year. These projects have mostly been content-driven pages, with a couple of interactive form-based applications. I’d like to use Second in a wider range of projects to get a feel for whether the abstractions are at the right level and whether the APIs are flexible enough.&lt;/p&gt;
+
+&lt;p&gt;By opening up the framework, I’m hoping that the wider React community can have some discussions about whether selective client-side rendering is a useful pattern, and if it is, whether a framework like Second is the right way to implement the pattern.&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Aug 2017 00:00:00 +0100</pubDate>
         <link>https://wildlyinaccurate.com/introducing-second-a-framework-for-mostly-static-react-applications/</link>
